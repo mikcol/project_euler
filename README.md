@@ -1,1 +1,3 @@
-# project_euler
+# Project Euler
+
+Some project euler problem solutions.
